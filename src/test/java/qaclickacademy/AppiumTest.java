@@ -11,6 +11,17 @@ public class AppiumTest {
 	}
 	
 	@Test
+	public void Manoj()
+	{
+		System.out.println("Manoj");
+	}
+	@Test
+	public void Veena()
+	{
+		System.out.println("Veena");
+	}
+	
+	@Test
 	public void Jiya()
 	{
 		System.out.println("jiya");
